@@ -1,0 +1,15 @@
+amazon.de###cart-recs-carousel
+amazon.de##.s-item-container:has(span[data-a-popover*="sponsored-header-"])
+amazon.de##li[id^="result"]:if(h5:has-text(/^Sponsored/))
+amazon.de##.s-sponsored-list-header ~ *
+amazon.de##.s-sponsored-list-header
+amazon.de##.s-result-item:has(.s-sponsored-list-header)
+amazon.de##.s-hidden-sponsored-item
+amazon.de##a[href^='/gp/slredirect/redirect.html']
+amazon.de##.gw-atf-grid
+amazon.de##.gw-btf-grid
+amazon.de###rhf-shoveler
+amazon.de###desktop-banner
+www.amazon.de##.prime-popover-link
+www.amazon.de##.prime-ship-speed
+www.amazon.de##.prime-ctyp-upsell-container
