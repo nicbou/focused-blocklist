@@ -1,0 +1,15 @@
+www.linkedin.com##.community-panel
+www.linkedin.com##.news-module
+www.linkedin.com##:xpath(.//div[contains(@data-id, 'urn:li:lyndaCourse')])
+www.linkedin.com##span:has-text(weitere Kontakte):upward(6)
+www.linkedin.com##span:has-text( folgen ):upward(6)
+www.linkedin.com##span:has-text(Zum Feed):upward(6)
+www.linkedin.com##span:has-text(Anzeige):upward(6)
+www.linkedin.com##.global-nav__spotlight-upsell
+
+www.linkedin.com##.ember-view.pv3.news-module
+www.linkedin.com##.pb3.pt2.learning-top-courses
+www.linkedin.com##.feed-follows-module
+www.linkedin.com##.ember-view.community-panel.mb2.artdeco-card
+www.linkedin.com##:xpath(//*[(text()[contains(.,'Jobs für Sie')])]/../../../../../../..)
+www.linkedin.com##.org-organization-admin-pages-entrypoint-card__card
