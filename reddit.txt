@@ -1,0 +1,7 @@
+old.reddit.com##.score
+old.reddit.com##.awardings-bar
+old.reddit.com###sr-header-area
+www.reddit.com##[href*="/rpan/r/"]:nth-ancestor(3)
+www.reddit.com##h2:has-text(Trending Communities):nth-ancestor(3)
+www.reddit.com##header [href*="/rpan/"]
+www.reddit.com###COIN_PURCHASE_DROPDOWN_ID
