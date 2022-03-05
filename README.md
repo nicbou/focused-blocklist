@@ -1,2 +1,3 @@
 # focused-blocklist
-Blocks related content and other unwanted feeds
+
+Blocks related content feeds, upsells and secondary feeds from websites that don't need them.
